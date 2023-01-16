@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to JLK's dev portfolio" />
+        <Header title="Welcome to JLK's dev portfolio: pixa sales twitter bot, pixa mint bot, dad jokes nightly texts, what else? ynab daily txt reports? google sheets daily txt reports? what else can you build? make a list of things you have built and things you want to build, this becomes your portfolio." />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
